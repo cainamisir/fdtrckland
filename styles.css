@@ -1,0 +1,12 @@
+.container-fluid{
+    background-color: transparent;
+    color: #256EFF;
+}
+body{
+    background-color: #ffbe0b !important;
+    color: #ffbe0b;
+}
+@font-face {
+    font-family: logo;
+    src: url(FredokaOne-Regular.ttf);
+  }
